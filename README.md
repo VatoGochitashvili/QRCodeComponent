@@ -1,0 +1,2 @@
+# QRCodeComponent
+Created with CodeSandbox
